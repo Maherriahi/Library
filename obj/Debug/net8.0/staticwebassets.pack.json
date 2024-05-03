@@ -1,0 +1,1009 @@
+{
+  "Files": [
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\StudentClub.bundle.scp.css",
+      "PackagePath": "staticwebassets\\StudentClub.bundle.scp.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\assets\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\favicon.ico"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\assets\\img\\bg-masthead.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg-masthead.jpg"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\assets\\img\\portfolio\\fullsize\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\fullsize\\1.jpg"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\assets\\img\\portfolio\\fullsize\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\fullsize\\2.jpg"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\assets\\img\\portfolio\\fullsize\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\fullsize\\3.jpg"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\assets\\img\\portfolio\\fullsize\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\fullsize\\4.jpg"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\assets\\img\\portfolio\\fullsize\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\fullsize\\5.jpg"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\assets\\img\\portfolio\\fullsize\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\fullsize\\6.jpg"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\assets\\img\\portfolio\\thumbnails\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\thumbnails\\1.jpg"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\assets\\img\\portfolio\\thumbnails\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\thumbnails\\2.jpg"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\assets\\img\\portfolio\\thumbnails\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\thumbnails\\3.jpg"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\assets\\img\\portfolio\\thumbnails\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\thumbnails\\4.jpg"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\assets\\img\\portfolio\\thumbnails\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\thumbnails\\5.jpg"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\assets\\img\\portfolio\\thumbnails\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\thumbnails\\6.jpg"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\css\\Style.css",
+      "PackagePath": "staticwebassets\\css\\Style.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\css\\details.css",
+      "PackagePath": "staticwebassets\\css\\details.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\css\\form.css",
+      "PackagePath": "staticwebassets\\css\\form.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\css\\indexBook.css",
+      "PackagePath": "staticwebassets\\css\\indexBook.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\css\\indexSection.css",
+      "PackagePath": "staticwebassets\\css\\indexSection.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\css\\indexStud.css",
+      "PackagePath": "staticwebassets\\css\\indexStud.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\css\\style_manger.css",
+      "PackagePath": "staticwebassets\\css\\style_manger.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\image\\Card.webp",
+      "PackagePath": "staticwebassets\\image\\Card.webp"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\image\\admin.jpg",
+      "PackagePath": "staticwebassets\\image\\admin.jpg"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\image\\background.jpeg",
+      "PackagePath": "staticwebassets\\image\\background.jpeg"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\image\\css.jpg",
+      "PackagePath": "staticwebassets\\image\\css.jpg"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\image\\detailsStud.jpeg",
+      "PackagePath": "staticwebassets\\image\\detailsStud.jpeg"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\image\\indexStud.webp",
+      "PackagePath": "staticwebassets\\image\\indexStud.webp"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\image\\js.jpg",
+      "PackagePath": "staticwebassets\\image\\js.jpg"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\image\\literary.webp",
+      "PackagePath": "staticwebassets\\image\\literary.webp"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\image\\nodejs.jpg",
+      "PackagePath": "staticwebassets\\image\\nodejs.jpg"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\image\\profile.png",
+      "PackagePath": "staticwebassets\\image\\profile.png"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\image\\pyramid.jpg",
+      "PackagePath": "staticwebassets\\image\\pyramid.jpg"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\image\\sky-earth.jpg",
+      "PackagePath": "staticwebassets\\image\\sky-earth.jpg"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\image\\upload.png",
+      "PackagePath": "staticwebassets\\image\\upload.png"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\image\\user.jpg",
+      "PackagePath": "staticwebassets\\image\\user.jpg"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\image\\user2.jpg",
+      "PackagePath": "staticwebassets\\image\\user2.jpg"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\image\\xml.jpg",
+      "PackagePath": "staticwebassets\\image\\xml.jpg"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\js\\form.js",
+      "PackagePath": "staticwebassets\\js\\form.js"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\js\\indexbook.js",
+      "PackagePath": "staticwebassets\\js\\indexbook.js"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\css\\main.css",
+      "PackagePath": "staticwebassets\\login\\css\\main.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\css\\util.css",
+      "PackagePath": "staticwebassets\\login\\css\\util.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.eot",
+      "PackagePath": "staticwebassets\\login\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.eot"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.svg",
+      "PackagePath": "staticwebassets\\login\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.svg"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.woff",
+      "PackagePath": "staticwebassets\\login\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.woff"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\login\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\Linearicons-Free-v1.0.0\\icon-font.min.css",
+      "PackagePath": "staticwebassets\\login\\fonts\\Linearicons-Free-v1.0.0\\icon-font.min.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\montserrat\\Montserrat-Black.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\montserrat\\Montserrat-Black.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\montserrat\\Montserrat-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\montserrat\\Montserrat-BlackItalic.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\montserrat\\Montserrat-Bold.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\montserrat\\Montserrat-Bold.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\montserrat\\Montserrat-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\montserrat\\Montserrat-BoldItalic.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\montserrat\\Montserrat-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\montserrat\\Montserrat-ExtraBold.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\montserrat\\Montserrat-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\montserrat\\Montserrat-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\montserrat\\Montserrat-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\montserrat\\Montserrat-ExtraLight.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\montserrat\\Montserrat-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\montserrat\\Montserrat-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\montserrat\\Montserrat-Italic.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\montserrat\\Montserrat-Italic.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\montserrat\\Montserrat-Light.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\montserrat\\Montserrat-Light.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\montserrat\\Montserrat-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\montserrat\\Montserrat-LightItalic.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\montserrat\\Montserrat-Medium.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\montserrat\\Montserrat-Medium.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\montserrat\\Montserrat-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\montserrat\\Montserrat-MediumItalic.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\montserrat\\Montserrat-Regular.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\montserrat\\Montserrat-Regular.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\montserrat\\Montserrat-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\montserrat\\Montserrat-SemiBold.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\montserrat\\Montserrat-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\montserrat\\Montserrat-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\montserrat\\Montserrat-Thin.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\montserrat\\Montserrat-Thin.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\montserrat\\Montserrat-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\montserrat\\Montserrat-ThinItalic.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\montserrat\\OFL.txt",
+      "PackagePath": "staticwebassets\\login\\fonts\\montserrat\\OFL.txt"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\poppins\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\poppins\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\poppins\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\poppins\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\poppins\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\poppins\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\poppins\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\poppins\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\poppins\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\poppins\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\poppins\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\poppins\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\poppins\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\fonts\\poppins\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\images\\bg-01.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\bg-01.jpg"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\images\\icons\\favicon.ico",
+      "PackagePath": "staticwebassets\\login\\images\\icons\\favicon.ico"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\js\\main.js",
+      "PackagePath": "staticwebassets\\login\\js\\main.js"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\vendor\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\login\\vendor\\animate\\animate.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\vendor\\animsition\\css\\animsition.css",
+      "PackagePath": "staticwebassets\\login\\vendor\\animsition\\css\\animsition.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\vendor\\animsition\\css\\animsition.min.css",
+      "PackagePath": "staticwebassets\\login\\vendor\\animsition\\css\\animsition.min.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\vendor\\animsition\\js\\animsition.js",
+      "PackagePath": "staticwebassets\\login\\vendor\\animsition\\js\\animsition.js"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\vendor\\animsition\\js\\animsition.min.js",
+      "PackagePath": "staticwebassets\\login\\vendor\\animsition\\js\\animsition.min.js"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\login\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\login\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\login\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\login\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\login\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\login\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\login\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\login\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\login\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\login\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\login\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\login\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\login\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\login\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\vendor\\bootstrap\\js\\popper.js",
+      "PackagePath": "staticwebassets\\login\\vendor\\bootstrap\\js\\popper.js"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\vendor\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\login\\vendor\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\vendor\\bootstrap\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\login\\vendor\\bootstrap\\js\\tooltip.js"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\vendor\\countdowntime\\countdowntime.js",
+      "PackagePath": "staticwebassets\\login\\vendor\\countdowntime\\countdowntime.js"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\vendor\\css-hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\login\\vendor\\css-hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\login\\vendor\\css-hamburgers\\hamburgers.min.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\vendor\\daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\login\\vendor\\daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\vendor\\daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\login\\vendor\\daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\vendor\\daterangepicker\\moment.js",
+      "PackagePath": "staticwebassets\\login\\vendor\\daterangepicker\\moment.js"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\vendor\\daterangepicker\\moment.min.js",
+      "PackagePath": "staticwebassets\\login\\vendor\\daterangepicker\\moment.min.js"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\login\\vendor\\jquery\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\vendor\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\login\\vendor\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\login\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\vendor\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\login\\vendor\\select2\\select2.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\vendor\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\login\\vendor\\select2\\select2.js"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\vendor\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\login\\vendor\\select2\\select2.min.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\login\\vendor\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\login\\vendor\\select2\\select2.min.js"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\register\\css\\roboto-font.css",
+      "PackagePath": "staticwebassets\\register\\css\\roboto-font.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\register\\css\\style.css",
+      "PackagePath": "staticwebassets\\register\\css\\style.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\register\\fonts\\Roboto\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\register\\fonts\\Roboto\\LICENSE.txt"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\register\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\register\\fonts\\Roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\register\\fonts\\Roboto\\Roboto-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\register\\fonts\\Roboto\\Roboto-BlackItalic.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\register\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\register\\fonts\\Roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\register\\fonts\\Roboto\\Roboto-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\register\\fonts\\Roboto\\Roboto-BoldItalic.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\register\\fonts\\Roboto\\Roboto-Italic.ttf",
+      "PackagePath": "staticwebassets\\register\\fonts\\Roboto\\Roboto-Italic.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\register\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\register\\fonts\\Roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\register\\fonts\\Roboto\\Roboto-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\register\\fonts\\Roboto\\Roboto-LightItalic.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\register\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\register\\fonts\\Roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\register\\fonts\\Roboto\\Roboto-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\register\\fonts\\Roboto\\Roboto-MediumItalic.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\register\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\register\\fonts\\Roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\register\\fonts\\Roboto\\Roboto-Thin.ttf",
+      "PackagePath": "staticwebassets\\register\\fonts\\Roboto\\Roboto-Thin.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\register\\fonts\\Roboto\\Roboto-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\register\\fonts\\Roboto\\Roboto-ThinItalic.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\register\\fonts\\line-awesome\\css\\line-awesome-font-awesome.css",
+      "PackagePath": "staticwebassets\\register\\fonts\\line-awesome\\css\\line-awesome-font-awesome.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\register\\fonts\\line-awesome\\css\\line-awesome-font-awesome.min.css",
+      "PackagePath": "staticwebassets\\register\\fonts\\line-awesome\\css\\line-awesome-font-awesome.min.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\register\\fonts\\line-awesome\\css\\line-awesome.css",
+      "PackagePath": "staticwebassets\\register\\fonts\\line-awesome\\css\\line-awesome.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\register\\fonts\\line-awesome\\css\\line-awesome.min.css",
+      "PackagePath": "staticwebassets\\register\\fonts\\line-awesome\\css\\line-awesome.min.css"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\register\\fonts\\line-awesome\\fonts\\line-awesome.eot",
+      "PackagePath": "staticwebassets\\register\\fonts\\line-awesome\\fonts\\line-awesome.eot"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\register\\fonts\\line-awesome\\fonts\\line-awesome.svg",
+      "PackagePath": "staticwebassets\\register\\fonts\\line-awesome\\fonts\\line-awesome.svg"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\register\\fonts\\line-awesome\\fonts\\line-awesome.ttf",
+      "PackagePath": "staticwebassets\\register\\fonts\\line-awesome\\fonts\\line-awesome.ttf"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\register\\fonts\\line-awesome\\fonts\\line-awesome.woff",
+      "PackagePath": "staticwebassets\\register\\fonts\\line-awesome\\fonts\\line-awesome.woff"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\register\\fonts\\line-awesome\\fonts\\line-awesome.woff2",
+      "PackagePath": "staticwebassets\\register\\fonts\\line-awesome\\fonts\\line-awesome.woff2"
+    },
+    {
+      "Id": "B:\\source\\repos\\StudentClub\\StudentClub\\wwwroot\\register\\images\\form-v2.jpg",
+      "PackagePath": "staticwebassets\\register\\images\\form-v2.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.StudentClub.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.StudentClub.props",
+      "PackagePath": "build\\StudentClub.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.StudentClub.props",
+      "PackagePath": "buildMultiTargeting\\StudentClub.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.StudentClub.props",
+      "PackagePath": "buildTransitive\\StudentClub.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

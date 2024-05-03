@@ -1,0 +1,78 @@
+﻿@model IEnumerable<Section>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+<div class="body_index_book">
+<div class="container  py-2">
+		<div class="bg-white rounded d-flex align-items-center justify-content-between m-auto" id="header">
+			<button class="btn btn-hide text-uppercase" type="button" data-toggle="collapse" data-target="#filterbar"
+			aria-expanded="false" aria-controls="filterbar" id="filter-btn" onclick="changeBtnTxt()"> <span
+				class="fas fa-angle-left" id="filter-angle"></span> <span id="btn-txt">Hide filters</span> </button>
+		<nav class="navbar navbar-expand-lg navbar-light pl-lg-0 pl-auto"> <button class="navbar-toggler" type="button"
+				data-toggle="collapse" data-target="#mynav" aria-controls="mynav" aria-expanded="false"
+				aria-label="Toggle navigation" onclick="chnageIcon()" id="icon"> <span
+					class="navbar-toggler-icon"></span> </button>
+			<div class="collapse navbar-collapse" id="mynav">
+				<a asp-action="New" asp-controller="Books" class="btn btn-info ml-2 p-2" >Add New Book</a>
+				<a asp-action="New" asp-controller="Sections"class="btn btn-warning ml-2 p-2 mr-2" >Add New Section</a>
+			</div>
+		</nav>
+	</div>
+		<div class="d-flex justify-content-center align-items-center flex-wrap  card-p2">
+			@foreach (var item in Model){
+<div class="col-xs-12 col-md-6 bootstrap snippets bootdeys">
+	<!-- product -->
+			
+	<div class="product-content product-wrap clearfix">
+					
+		<div class="row card-p1">
+				<div class="col-md-5 col-sm-12 col-xs-12">
+					<div class="product-image"> 
+						<img src=@item.imageSrc alt="194x228"  class="img-responsive"> 
+						<span class="tag2 hot">
+							HOT
+						</span> 
+					</div>
+				</div>
+			<div class="col-md-7 col-sm-12 col-xs-12 prod-dt">
+				<div class="desc-sec">
+				  <div class="product-deatil">
+						<h5 class="name">
+							<a href="#">
+								@item.Name <span>Category</span>
+							</a>
+						</h5>
+						<p class="price-container">
+							<span>$99</span>
+						</p>
+						<span class="tag1"></span> 
+				  </div>
+				     <div class="description">
+					   <p>@item.Description </p>
+				     </div>
+				</div>
+
+
+			<div class="product-info smart-form">
+
+				<div class="row">
+					<div class="col-md-6 col-sm-6 col-xs-6 btn-s">
+					  <a asp-action="Edit" asp-controller="Sections" class="btn btn-success" asp-route-Id="@item.Id">Edit Section</a>
+					</div>
+					<div class="col-md-6 col-sm-6 col-xs-6 link-s ">
+					    <div class="rating">
+						<a asp-action="Delete" asp-controller="Sections" asp-route-Id="@item.Id"><i class="fa-solid fa-trash"></i></a>
+						</div>
+					</div>
+				</div>
+			   </div>
+			</div>
+		</div>
+	</div>
+	<!-- end product -->
+</div>
+}
+</div>
+</div></div>

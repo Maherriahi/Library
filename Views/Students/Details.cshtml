@@ -1,0 +1,75 @@
+﻿@model ViewModelStudentReplay
+@{
+    ViewData["Title"] = "Details";
+}
+<section class="ftco-section">
+	<div class="body-form">
+		<div class="container bg-light" style="height:95vh" >
+			<div class="row justify-content-center ">
+				<div class="col-md-12 ">
+					<div class="wrapper ">
+						<div class="row no-gutters ">
+							<div class="col-lg-6">
+								<div class="contact-wrap w-100 p-md-5 p-4">
+									<h3>Details</h3>
+									<p class="mb-4">Certainly, could you please provide the message you'd like to convey?</p>
+									<div id="form-message-warning"  class="mb-4"></div> 
+							  <div id="form-message-success" class="mb-4 ">
+								<p style="text-transform:uppercase"> <i class="fa-solid fa-user icone-det mr-4"></i> @Model.Student.FirstName<span class="mr-2"></span> @Model.Student.LastName</p>
+							  </div>
+									<div id="form-message-success" class="mb-4 ">
+										<p><span><i class="fa-solid fa-location-dot icone-det mr-2"></i></span> @Model.Student.Address,@Model.Student.City @Model.Student.PostalCode, @Model.Student.Country</p>
+									</div>
+									<div class="row mb-4 ">
+									<div class="d-flex">
+											<div style="width:40%;" ><i class="fa-solid fa-envelope icone-det"></i></div>
+											<div style="width:30%;" ><i class="fa-solid fa-graduation-cap icone-det"></i></div>
+											<div style="width:30%;" ><i class="fa-solid fa-phone-volume icone-det"></i></div>
+									</div>
+									<div class="d-flex">
+											<div style="width:40%;" ><a href="#">@Model.Student.Email </a></div>
+											<div style="width:30%;" >@Model.Student.Profession</div>
+											<div style="width:30%;" ><a href="#">@Model.Student.Telephone</a></div>
+									</div>
+									</div>
+									<form method="post" enctype="multipart/form-data" id="contactForm" class="contactForm">
+										<input asp-for="@Model.Replay.StudentId" value="@Model.Student.Id" type="hidden" />
+										<div class="row">
+											<div class="col-md-12">
+												<div class="form-group">
+													<input asp-for="@Model.Replay.Subject" class="form-control"  id="subject" placeholder="Subject">
+												</div>
+											</div>
+											<div class="col-md-12">
+												<div class="form-group">
+													<textarea asp-for="@Model.Replay.Description" class="form-control" id="message" cols="30" rows="4" placeholder="Create a message here"></textarea>
+													<span asp-validation-for="@Model.Replay.Description" class="text-danger"></span>
+												</div>
+											</div>
+
+											<div class="col-md-12">
+												<div class="form-group d-flex align-items-center justify-content-between">
+													<input type="submit" value="Send Message" class="btn btn-primary">
+													<div class="submitting"></div>
+												</div>
+											</div>
+										</div>
+									</form>
+								</div>
+							</div>
+							<div class="col-lg-5 d-flex align-items-stretch">
+								<div class=" w-100 p-5" style="height:95vh">
+			                   <img src="~/image/detailsStud.jpeg" class="h-100 w-100" style="box-shadow:12px 12px black"/>
+					  </div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		</div>
+	</section>
+
+@section Scripts {
+	<partial name="_ValidationScriptsPartial" />
+}

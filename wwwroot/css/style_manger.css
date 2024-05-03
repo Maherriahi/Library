@@ -1,0 +1,14 @@
+﻿.seting {
+    padding-top: 2em;
+    padding-left:1.5em;
+    border-right: 1px solid #ADD8E6;
+}
+.seting_page {
+    padding-left:2em;
+    width: 80%;
+    height: 100%;
+}
+.body_page{
+    padding-top:2em;
+}
+

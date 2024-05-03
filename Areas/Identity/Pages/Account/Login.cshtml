@@ -1,0 +1,54 @@
+﻿@page
+@using Microsoft.CodeAnalysis.Differencing
+@model LoginModel
+
+ @{
+    ViewData["Title"] = "Login";
+} 
+<div class="body-form">
+<div class="page-content">
+	<div class="form-v2-content">
+		<div class="form-left">
+			<img src="/register/images/form-v2.jpg" alt="form">
+			<div class="text-1">
+				<p>Bring Your Music Along<span>try Unlimited</span></p>
+			</div>
+
+		</div>
+		<form class="form-detail" id="registerForm" asp-route-returnUrl="@Model.ReturnUrl" method="post">
+
+
+			<h2>Login to continue</h2>
+
+
+			<div class="form-row ">
+				<label asp-for="Input.Email">Username :</label>
+				<input asp-for="Input.Email" class="input-text form-control" placeholder="name@example.com" autocomplete="username" aria-required="true">
+				<span asp-validation-for="Input.Email" class="text-danger small"></span>
+			</div>
+
+
+			<div class="form-row">
+				<label asp-for="Input.Password">Password :</label>
+				<input asp-for="Input.Password" id="password" class="input-text form-control" autocomplete="new-password" aria-required="true">
+				<span asp-validation-for="Input.Password" class="text-danger small"></span>
+			</div>
+
+
+
+			<div class="pt-5">
+				<label class="container">
+					<p>By signing up, you agree to the <a href="#" class="text">Play Term of Service</a></p>
+					<span class="checkmark"></span>
+				</label>
+			</div>
+			<div class="form-row-last">
+				<button id="registerSubmit" type="submit" class="w-100 btn btn-lg btn-primary">Register</button>
+			</div>
+		</form>
+	</div>
+</div>
+</div>
+@section Scripts {
+	<partial name="_ValidationScriptsPartial" />
+}

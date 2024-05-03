@@ -1,0 +1,171 @@
+﻿@model Tuple<IEnumerable<Message>, IEnumerable<Replay>,IEnumerable<Image>>
+
+@{
+    ViewData["Title"] = "Index";
+    string defaultImageSrc = "/image/profile.png";
+
+}
+
+<section style="background-color: #eee;" >
+      <div class="container my-5 py-5  d-flex">
+        @{
+            var nbrId = new Dictionary<int, int>();
+            var nbrI = new Dictionary<int, int>();
+
+            // Retrieve messages and replays
+            var messages = Model.Item1 ?? Enumerable.Empty<Message>();
+            var replays = Model.Item2 ?? Enumerable.Empty<Replay>();
+            Image senderImage;
+            string imageSrc = defaultImageSrc;
+
+
+            // Combine messages and replays
+            IEnumerable<Message> items;
+            if (messages.Any())
+            {
+                items = messages;
+            }
+            else
+            {
+                items = replays.Select(replay => new Message
+        {
+             Id = replay.Id,
+             Full_name = replay.Full_name,
+             dateTime = replay.dateTime,
+             Description = replay.Description,
+             Phone = replay.Phone,
+             StudentId =replay.StudentId
+
+        });
+               
+                    senderImage = Model.Item3.FirstOrDefault(img => img.studentId == 2);
+                    imageSrc = senderImage != null ? senderImage.imageSrc : defaultImageSrc;
+                
+    }
+
+           }
+
+ 
+
+
+            <div class="card w-25 bg-light">
+            <div class="card p-2 ">
+                <div class="d-flex justify-content-between align-items-center">
+                <i class="fa-solid fa-user  w-50 h-100 p-1" style="font-size:1.5em"></i>
+                <h5 class="card-title  w-50 h-100 align-self-start p-1"> All Users</h5>
+                </div>
+            </div>
+            @foreach (var item in items)
+            {
+                int? Id = item.StudentId;
+                @if (nbrId.ContainsKey(Id.Value))
+                {
+                    nbrId[Id.Value]++;
+                }
+                else
+                {
+                    nbrId[Id.Value] = 1;
+                }
+                @if (nbrId[Id.Value] == 1)
+                {
+          
+
+                    <a href="#" class="list-group-item list-group-item-action  p-2 bg-white" style="margin-bottom:2px;">
+                        <div class="badge bg-success float-right">@nbrId[Id.Value]</div>
+                        <div class="d-flex align-items-start">
+
+                            @if (!string.IsNullOrEmpty(imageSrc))
+                            {
+                                if (messages.Any())
+                                {
+                                     senderImage = Model.Item3.FirstOrDefault(img => img.studentId == item.StudentId);
+                                     imageSrc = senderImage != null ? senderImage.imageSrc : defaultImageSrc;
+
+                                    <img src="@imageSrc" class="rounded-circle mr-1" alt="Vanessa Tucker" width="40" height="40">
+                                }
+                                else
+                                {
+                                    <img src="@imageSrc" class="rounded-circle mr-1" alt="Vanessa Tucker" width="40" height="40">
+
+                                }   
+
+                            }
+                            else
+                            {
+                                <p>No image available</p>
+                            }
+
+
+                             <div class="flex-grow-1 ml-3">
+                                @item.Full_name
+                                <div class="small"><span class="fas fa-circle chat-online"></span> Online</div>
+                            </div>
+                        </div>
+                    </a>
+                }
+            }
+                </div>
+           
+      <div class="row d-flex justify-content-center   w-75">
+          
+          
+         <div class="col-md-12 col-lg-10 w-100">
+          <div class="card p-3">
+                        <h4 class="mb-0">Recent comments</h4>
+                        <p class="fw-light mb-4 pb-2">You can find all messages from our students</p>
+          </div>
+           @foreach (var item in items)
+           {
+       
+        <div class="card text-dark">
+          <div class="card-body p-4">
+            <div class="d-flex flex-start">
+              @if (!string.IsNullOrEmpty(imageSrc))
+              {
+                                    if (messages.Any())
+                                    {
+                                        senderImage = Model.Item3.FirstOrDefault(img => img.studentId == item.StudentId);
+                                        imageSrc = senderImage != null ? senderImage.imageSrc : defaultImageSrc;
+
+                                        <img class="rounded-circle shadow-1-strong me-3"
+                                        src="@imageSrc" alt="avatar" width="60"
+                                        height="60" />
+                                    }
+                                    else
+                                    {
+                                        <img class="rounded-circle shadow-1-strong me-3"
+                                             src="@imageSrc" alt="avatar" width="60"
+                                             height="60" />
+                                    }
+                                }
+               else
+               {
+                   <p>No image available</p>
+               }
+              <div>
+                <h6 class="fw-bold mb-1">@item.Full_name</h6>
+                <div class="d-flex align-items-center mb-3">
+                  <p class="mb-0">
+                   <span class="text-muted time">,<span id="firstmot"> @item.dateTime.ToString("MMMM dd ,yyyy")</span></span>
+                    <span class="badge bg-primary">User</span>
+                  </p>
+                  <a href="#!" class="link-muted"><i class="fas fa-pencil-alt ms-2"></i></a>
+                  <a asp-action="ReplayForMessage" asp-controller="Comments" class="link-muted" asp-route-Id="@item.Id"><i class="fas fa-redo-alt ms-2"></i></a>
+                 <a href="#!" class="link-muted"><i class="fa-solid fa-xmark ms-2"></i></a>
+                </div>
+                <p class="mb-0">
+                  @item.Description ,
+                  industry. Lorem Ipsum has been the industry's standard dummy text ever
+                  since the 1500s, when an unknown printer took a galley of type and
+                  scrambled it.
+                </p>
+              </div>
+            </div>
+          </div>
+          <hr class="my-0" />
+         </div>}
+      </div>
+    </div>
+  </div>
+</section>
+

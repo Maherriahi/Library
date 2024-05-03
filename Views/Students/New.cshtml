@@ -1,0 +1,71 @@
+﻿@model Student 
+@{
+    ViewData["Title"] = "New";
+}
+@using Microsoft.AspNetCore.Identity
+
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+<div class="body-form">
+    <div class="container-fluid px-1 py-1 mx-auto Body">
+<section class="text-center">
+    <!-- Background image -->
+    <div class="p-5 bg-image" style="
+        background-image: url('https://images.pexels.com/photos/1887609/pexels-photo-1887609.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+        height: 300px;
+        "></div>
+    <!-- Background image -->
+
+    <div class="card mx-4 mx-md-5 shadow-5-strong" style="
+        margin-top: -100px;
+        background: hsla(0, 0%, 100%, 0.8);
+        backdrop-filter: blur(30px);
+        ">
+        <div class="card-body py-5 px-md-5">
+
+            <div class="row d-flex justify-content-center">
+                <div class="col-lg-8">
+                    <h2 class="fw-bold mb-5">Complete your Profile</h2>
+                    <form class="form-card" method="post" enctype="multipart/form-data">
+                        @*   <a>@UserManager.GetUserId(User)</a>
+                        <input asp-for="UserId" value="@UserManager.GetUserId(User)"/> *@
+                        <div class="row justify-content-between text-left">
+                            <div class="form-group col-sm-6 flex-column d-flex"> <label class="form-control-label px-3">First name<span class="text-danger"> *</span></label> <input asp-for="FirstName" id="fname" placeholder="Enter your first name"><span asp-validation-for="FirstName" class="text-danger"></span> </div>
+                            <div class="form-group col-sm-6 flex-column d-flex"> <label class="form-control-label px-3">Last name<span class="text-danger"> *</span></label> <input asp-for="LastName" id="lname" placeholder="Enter your last name"><span asp-validation-for="LastName" class="text-danger"></span> </div>
+                        </div>
+                        <div class="row justify-content-between text-left">
+                            <div class="form-group col-sm-6 flex-column d-flex"> <label class="form-control-label px-3">Email<span class="text-danger"> *</span></label> <input asp-for="Email" id="email" placeholder="exemple@Email.com"><span asp-validation-for="Email" class="text-danger"></span> </div>
+                            <div class="form-group col-sm-6 flex-column d-flex"> <label class="form-control-label px-3">Phone number<span class="text-danger"> *</span></label> <input asp-for="Telephone" id="mob" placeholder="+2160000000"><span asp-validation-for="Telephone" class="text-danger"></span> </div>
+                        </div>
+                        <div class="row justify-content-between text-left">
+                            <div class="form-group col-sm-6 flex-column d-flex"> <label class="form-control-label px-3">Country<span class="text-danger"> *</span></label> <input asp-for="Country" id="country" placeholder="Enter your Country"><span asp-validation-for="Country" class="text-danger"></span> </div>
+                            <div class="form-group col-sm-6 flex-column d-flex"> <label class="form-control-label px-3">Region<span class="text-danger"> *</span></label> <input asp-for="Region" id="region" placeholder="Enter your Region"><span asp-validation-for="Region" class="text-danger"></span> </div>
+                        </div>
+                        <div class="row justify-content-between text-left">
+                            <div class="form-group col-sm-6 flex-column d-flex"> <label class="form-control-label px-3">City<span class="text-danger"> *</span></label> <input asp-for="City" id="city" placeholder="Enter your City"><span asp-validation-for="City" class="text-danger"></span> </div>
+                            <div class="form-group col-sm-6 flex-column d-flex"> <label class="form-control-label px-3">Address<span class="text-danger"> *</span></label> <input asp-for="Address" id="address" placeholder="Enter your Address"><span asp-validation-for="Address" class="text-danger"></span> </div>
+                        </div>
+                        <div class="row justify-content-between text-left">
+                            <div class="form-group col-sm-6 flex-column d-flex"> <label class="form-control-label px-3">Code Postal<span class="text-danger"> *</span></label> <input asp-for="PostalCode" id="postecode" placeholder="00000"><span asp-validation-for="PostalCode" class="text-danger"></span> </div>
+                        </div>
+                        <div class="row justify-content-between text-left">
+                            <div class="form-group col-12 flex-column d-flex"> <label class="form-control-label px-3">What is your profession ?<span class="text-danger"> *</span></label> <input asp-for="Profession" id="ans" placeholder="Your Profession ...?"><span asp-validation-for="Profession" class="text-danger"></span> </div>
+                        </div>
+                        <div class="row justify-content-end buttonForm">
+                            <div class="form-group col-sm-6  buttonForm ">
+                                <button type="submit" class="btn-block btn-primary">Add New Student</button>
+                                <a asp-action="Index" asp-controller="Students" class="btn-block btn-danger back">Go To Back</a>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

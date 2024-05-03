@@ -1,0 +1,39 @@
+﻿ .s-card {
+    display: flex;
+    height: 90vh;
+}
+
+.m-card {
+    /*width:170%;*/
+    display: flex;
+    flex-direction: column;
+    padding: 5em;
+    gap: 2em;
+}
+.btn-d{
+    display:flex;
+    justify-content:center;
+    align-items :center;
+    gap:2em;
+}
+.img-g {
+    width: 16em;
+    height: 22em;
+}
+.img-d {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.body-d .back {
+    width: 12em;
+    height: 2.8em;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    border-radius: 8px;
+    gap: 2em;
+}
+

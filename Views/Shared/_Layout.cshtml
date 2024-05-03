@@ -1,0 +1,151 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - StudentClub</title>
+        <!-- Mobile Specific Metas -->
+  
+    <!-- Font-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">   
+    <link rel="stylesheet" type="text/css" href="~/register/css/roboto-font.css">
+    <link rel="stylesheet" type="text/css" href="~/register/fonts/line-awesome/css/line-awesome.min.css">
+    <!-- Jquery -->
+    <link rel="stylesheet" href="https://jqueryvalidation.org/files/demo/site-demos.css">
+    <!-- Main Style Css -->
+    <link rel="stylesheet" href="~/register/css/style.css"/>
+        <link rel="stylesheet" href="~/css/indexStud.css" asp-append-version="true" />
+        <!--===============================================================================================-->	
+        <link rel="icon" type="image/png" href="~/login/images/icons/favicon.ico"/>
+<!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/login/vendor/bootstrap/css/bootstrap.min.css">
+<!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/login/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+<!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/login/fonts/Linearicons-Free-v1.0.0/icon-font.min.css">
+<!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/login/vendor/animate/animate.css">
+<!--===============================================================================================-->	
+    <link rel="stylesheet" type="text/css" href="~/login/vendor/css-hamburgers/hamburgers.min.css">
+<!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/login/vendor/animsition/css/animsition.min.css">
+<!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/login/vendor/select2/select2.min.css">
+<!--===============================================================================================-->	
+    <link rel="stylesheet" type="text/css" href="~/login/vendor/daterangepicker/daterangepicker.css">
+<!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/login/css/util.css">
+    <link rel="stylesheet" type="text/css" href="~/login/css/main.css"> 
+<!--===============================================================================================-->
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/form.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/indexbook.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/indexSection.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/details.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/styles.css" asp-append-version="true" />
+
+        <!-- Favicon-->
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Bootstrap Icons-->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:400,700" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic" rel="stylesheet" type="text/css" />
+        <!-- SimpleLightbox plugin CSS-->
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/SimpleLightbox/2.1.0/simpleLightbox.min.css" rel="stylesheet" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+    @*  <link href="~/css/styles.css" rel="stylesheet" /> *@
+
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid ">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">StudentClub</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <div>
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item border border-success">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Books" asp-action="Index">Books</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Students" asp-action="Index">Students</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Sections" asp-action="Index">Sections</a>
+                        </li>
+                          <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Comments" asp-action="Index">Messages</a>
+                        </li>
+                        </div>
+                        <div class="mr-1" dir="rtl">
+                        <partial name="_LoginPartial"/>
+                        </div>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div >
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+@*     <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2024 - StudentClub - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer> *@
+            <!-- Footer-->
+        <footer class="bg-light py-5">
+            <div class="container px-4 px-lg-5"><div class="small text-center text-muted">Copyright &copy; 2024 - StudentClub</div></div>
+        </footer>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- SimpleLightbox plugin JS-->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/SimpleLightbox/2.1.0/simpleLightbox.min.js"></script>
+        <!-- Core theme JS-->
+    @*   <script src="~/js/scripts.js"></script> *@
+        <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
+        <!-- * *                               SB Forms JS                               * *-->
+        <!-- * * Activate your form at https://startbootstrap.com/solution/contact-forms * *-->
+        <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
+    <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script> 
+     <script src="~/js/scripts.js" asp-append-version="true"></script>
+
+
+<!--===============================================================================================-->
+    <script src="~/login/vendor/jquery/jquery-3.2.1.min.js"></script>
+<!--===============================================================================================-->
+    <script src="~/login/vendor/animsition/js/animsition.min.js"></script>
+<!--===============================================================================================-->
+    <script src="~/login/vendor/bootstrap/js/popper.js"></script>
+    <script src="~/login/vendor/bootstrap/js/bootstrap.min.js"></script>
+<!--===============================================================================================-->
+    <script src="~/login/vendor/select2/select2.min.js"></script>
+<!--===============================================================================================-->
+    <script src="~/login/vendor/daterangepicker/moment.min.js"></script>
+    <script src="~/login/vendor/daterangepicker/daterangepicker.js"></script>
+<!--===============================================================================================-->
+    <script src="~/login/vendor/countdowntime/countdowntime.js"></script>
+<!--===============================================================================================-->
+    <script src="~/js/form.js"></script>
+	<script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/jquery.validation/1.16.0/jquery.validate.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/jquery.validation/1.16.0/additional-methods.min.js"></script>
+    <script src="~/login/js/main.js"></script>
+    <script src="~/js/indexbook.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

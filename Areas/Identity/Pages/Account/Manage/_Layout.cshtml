@@ -1,0 +1,30 @@
+﻿@{
+    if (ViewData.TryGetValue("ParentLayout", out var parentLayout) && parentLayout !=  null)
+    {
+        Layout = parentLayout.ToString();
+    }
+    else 
+    {
+        Layout = "/Areas/Identity/Pages/_Layout.cshtml";
+    }
+}
+<link rel="stylesheet" type="text/css" href="~/css/style_manger.css" />
+<div id="nav_manger" class="h-auto">
+
+
+    <div class="row w-100 h-100" id="seting_mange">
+        <div class="col-md-3 seting w-25 vh-100 bg-light">
+            <partial name="_ManageNav" />
+        </div>
+        <div class="col-md-9 seting_page w-75 h-auto">
+            <div>
+            @RenderBody()
+            </div>
+        </div>
+    </div>
+    
+</div>
+
+@section Scripts {
+    @RenderSection("Scripts", required: false)
+}
